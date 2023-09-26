@@ -1,2 +1,2 @@
 # javascript
-This is Prsactise purpose
+This is Prsactise Purpose
